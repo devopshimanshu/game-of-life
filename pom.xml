@@ -494,6 +494,5 @@
                 </plugins>
             </reporting>
         </profile>
-    </profiles>
-    
+    </profiles> 
 </project>
